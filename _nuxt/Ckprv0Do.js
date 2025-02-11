@@ -1,1 +1,0 @@
-import{H as r,F as a}from"./Dk4y3eE1.js";import{c as t,o as s,b as e,m as n}from"./CJlZWyc7.js";import"./J3IvDR-N.js";const _={__name:"landing",setup(l){return(o,c)=>(s(),t("div",null,[e(r),n(o.$slots,"default"),e(a)]))}};export{_ as default};
