@@ -1,0 +1,1 @@
+{"id":"9423cfcc-78f6-4d53-86f5-4c0b50586945","timestamp":1739458745350,"matcher":{"static":{"/api/content/blog/database.sql":{"prerender":true}},"wildcard":{},"dynamic":{}},"prerendered":["/","/blog/post1","/blog","/blog/opinions","/blog/psot2","/blog/opinions/anton"]}

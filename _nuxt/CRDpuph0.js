@@ -1,0 +1,1 @@
+import{c as e,o as t}from"./Bcl3DTxz.js";const s={class:"test-btn-primary"},c={__name:"index",setup(a){return(n,o)=>(t(),e("h1",s," Hola my name is Anton, esta es mi web Neverbee "))}};export{c as default};

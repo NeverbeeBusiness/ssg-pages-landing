@@ -1,1 +1,0 @@
-import{H as o}from"./DBC03yL3.js";import{c as r,o as t,b as a,A as s}from"./DoiYNgvR.js";import"./ZhUjs42T.js";const _={__name:"blog",setup(l){return(e,c)=>(t(),r("div",null,[a(o),s(e.$slots,"default")]))}};export{_ as default};
