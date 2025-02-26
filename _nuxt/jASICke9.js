@@ -1,1 +1,0 @@
-import{c as a,a as e,t as o,o as n}from"./DDh_w-y1.js";const r={class:"container"},i={class:"test-btn-primary"},m={__name:"index",setup(c){return(t,s)=>(n(),a("main",null,[e("div",r,[e("h1",i,o(t.$t("Hola my name is Anton, esta es mi web Neverbee")),1),s[0]||(s[0]=e("p",{class:"bg-primary"}," prueba color ",-1))])]))}};export{m as default};

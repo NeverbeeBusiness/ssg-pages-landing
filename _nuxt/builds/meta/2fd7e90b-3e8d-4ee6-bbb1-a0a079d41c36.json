@@ -1,1 +1,0 @@
-{"id":"2fd7e90b-3e8d-4ee6-bbb1-a0a079d41c36","timestamp":1739823794541,"matcher":{"static":{"/sitemap.xml":{"redirect":"/sitemap_index.xml"},"/api/content/blog/database.sql":{"prerender":true}},"wildcard":{},"dynamic":{}},"prerendered":["/es","/en","/en/about","/es/about","/es/blog","/en/blog","/es/blog/test","/es/blog/opinions/anton","/en/blog/test","/en/blog/opinions/anton"]}
